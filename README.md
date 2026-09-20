@@ -1,4 +1,4 @@
-# Hey, I'm Farhan A. Shaikh 👋
+# Hey, I'm Farhan Shaikh 👋
 
 ### CSE Student • Full-Stack Developer • AI & Backend Enthusiast
 
