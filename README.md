@@ -1,20 +1,81 @@
-# Hey, I'm Farhan Shaikh 👋
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Farhan Shaikh GitHub Banner" width="100%">
+</p>
 
-### CSE Student • Full-Stack Developer • AI & Backend Enthusiast
+<h1 align="center">Hey, I'm Farhan Shaikh 👋</h1>
 
-I'm a Computer Science Engineering student at **Vishwakarma University, Pune**, interested in building practical software systems that combine **AI, backend engineering, automation, and user-focused interfaces**.
+<p align="center">
+  <b>CSE Student • Full-Stack Developer • AI & Backend Enthusiast</b>
+</p>
 
-I enjoy turning ideas into working prototypes and building systems that solve real-world problems.
+<p align="center">
+  Building practical software systems with AI, backend engineering and modern web technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/farhan9865">
+    <img src="https://img.shields.io/badge/GitHub-farhan9865-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 🚀 What I'm Working On
+## 👨‍💻 About Me
 
-- 🏥 **MediKiosk** — AI-powered Ayurveda clinical history-taking platform
-- 🚗 **SpotLight** — Smart Parking & EV Charging platform
-- 🩺 **Report RX** — AI-assisted medical report analysis platform
-- 🤖 AI-powered applications using Python and modern LLM workflows
-- ☁️ Exploring cloud deployment, system architecture and scalable backend development
+I'm a **Computer Science Engineering student at Vishwakarma University, Pune**, passionate about building software that solves real-world problems.
+
+My main interests are:
+
+- 🤖 Artificial Intelligence & LLM applications
+- ⚙️ Backend Engineering & REST APIs
+- 🌐 Full-Stack Web Development
+- 🗄️ Database Design & Architecture
+- ☁️ Cloud & Deployment
+- 🔐 Authentication & Application Security
+- 🚀 Hackathons & Product Development
+
+I enjoy taking an idea from **concept → architecture → implementation → working prototype**.
+
+---
+
+## 🚀 What I'm Building
+
+### 🏥 MediKiosk — The Synergist
+
+AI-powered Ayurveda clinical history-taking platform.
+
+**Focus:** Adaptive questioning • Multilingual interaction • Voice-to-Voice • Offline-first • Privacy
+
+**Tech:** React • TypeScript • Python • AI
+
+[View MediKiosk →](https://github.com/farhan9865/MediKiosk-The-Synergist-)
+
+---
+
+### 🚗 SpotLight
+
+Smart Parking and EV Charging platform.
+
+**Focus:** Smart Parking • EV Charging • Navigation • Secure APIs
+
+**Tech:** Java • Spring Boot • Spring Security • JWT • PostgreSQL • Flyway
+
+[View SpotLight Backend →](https://github.com/farhan9865/spot-light-backend)
+
+---
+
+### 🩺 Report RX
+
+AI-assisted medical report analysis platform.
+
+**Focus:** OCR • Medical Data Processing • Structured JSON • AI Explanation
+
+**Tech:** Python • FastAPI • PostgreSQL • OCR • LLMs
+
+[View Report RX →](https://github.com/farhan9865/ReportRX-AI)
 
 ---
 
@@ -22,64 +83,27 @@ I enjoy turning ideas into working prototypes and building systems that solve re
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Database & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## ⭐ Featured Projects
-
-### 🏥 MediKiosk — The Synergist
-
-AI-powered Ayurveda clinical history-taking platform designed for hospital kiosks.
-
-**Focus:**  
-Adaptive questioning • Ayurveda • Multilingual interaction • Voice-to-Voice • Offline-first workflow • Privacy & Security
-
-**Tech:** React • TypeScript • Python • AI • OCR
-
----
-
-### 🚗 SpotLight
-
-Smart parking and EV charging platform designed to simplify parking discovery, navigation and parking session management.
-
-**Focus:**  
-Smart Parking • EV Charging • Navigation • Secure APIs • Parking Sessions
-
-**Tech:** Java • Spring Boot • Spring Security • JWT • PostgreSQL • Flyway
-
----
-
-### 🩺 Report RX
-
-AI-assisted medical report analysis platform designed to transform complex medical reports into structured and understandable information.
-
-**Focus:**  
-OCR • Medical Data Processing • Structured JSON • AI Explanation • Timelines
-
-**Tech:** Python • FastAPI • PostgreSQL • Google Cloud • OCR • LLMs
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,postman,vscode" />
+</p>
 
 ---
 
@@ -88,36 +112,46 @@ OCR • Medical Data Processing • Structured JSON • AI Explanation • Timel
 - Advanced Java & Spring Boot
 - System Design
 - REST API Architecture
-- AI/LLM Integration
+- AI / LLM Integration
 - Cloud & DevOps
-- Database Design
 - Cybersecurity
-- Data Structures & Algorithms
+- Scalable Software Systems
 
 ---
 
 ## 🎯 2026 Goals
 
 - Build production-quality full-stack applications
-- Improve backend and system design skills
+- Strengthen backend and system-design skills
 - Build more AI-powered products
+- Deploy applications to the cloud
 - Contribute to open-source projects
 - Participate in hackathons
-- Deploy real-world applications to the cloud
+- Improve DSA and problem-solving
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhan9865&show_icons=true&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan9865&layout=compact&theme=github_dark&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farhan9865&theme=github-dark-blue&hide_border=true">
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in:
+I'm interested in:
 
-- Open-source projects
-- Hackathons
-- AI & software engineering
-- Backend development
-- Interesting startup ideas
-- Building useful products
+**AI • Backend Development • Full-Stack • Open Source • Hackathons • Startups**
 
----
+<p align="center">
 
-### 💡 Build. Learn. Ship. Repeat.
+### Build. Learn. Ship. Repeat.
+
+</p>
