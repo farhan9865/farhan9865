@@ -50,20 +50,7 @@ AI-powered Ayurveda clinical history-taking platform.
 **Focus:** Adaptive questioning • Multilingual interaction • Voice-to-Voice • Offline-first • Privacy
 
 **Tech:** React • TypeScript • Python • AI
-
-[View MediKiosk →](https://github.com/farhan9865/MediKiosk-The-Synergist-)
-
 ---
-
-### 🚗 SpotLight
-
-Smart Parking and EV Charging platform.
-
-**Focus:** Smart Parking • EV Charging • Navigation • Secure APIs
-
-**Tech:** Java • Spring Boot • Spring Security • JWT • PostgreSQL • Flyway
-
-[View SpotLight Backend →](https://github.com/farhan9865/spot-light-backend)
 
 ---
 
@@ -74,9 +61,6 @@ AI-assisted medical report analysis platform.
 **Focus:** OCR • Medical Data Processing • Structured JSON • AI Explanation
 
 **Tech:** Python • FastAPI • PostgreSQL • OCR • LLMs
-
-[View Report RX →](https://github.com/farhan9865/ReportRX-AI)
-
 ---
 
 ## 🧠 Tech Stack
